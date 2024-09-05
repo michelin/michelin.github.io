@@ -3115,6 +3115,7 @@ main {
   background-image: url(/assets/images/fond.png);
   background-repeat: repeat;
   background-size: contain;
+  background-position-y: 59vw;
 }
 
 @media screen and (max-width: 1280px) {
@@ -3123,7 +3124,7 @@ main {
   }
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 1279px) {
   .header .navigation__link {
     background-color: var(--michelin-blue);
   }
