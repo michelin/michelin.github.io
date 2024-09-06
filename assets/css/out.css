@@ -3074,7 +3074,7 @@ section {
   text-align: center;
   font-size: 1.4rem;
   color: var(--white);
-  font-family: 'Michelin-Bold';
+  font-family: "MichelinUnitTitling-Bold", sans-serif;
 }
 
 @media (max-width: 960px) {
@@ -3134,4 +3134,25 @@ h4.activity {
   color: var(--michelin-blue);
   font-weight: bold;
   margin: 0;
+}
+
+.robot{
+  background-image: url('/assets/images/robot.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 49%;
+  background-position-y: 0;
+}
+
+@media (max-width: 1600px) {
+  .robot{
+    background-size: 48vw;
+  }
+}
+
+
+@media (max-width: 960px) {
+  .robot{
+    background: none;
+  }
 }

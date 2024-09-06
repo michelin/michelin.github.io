@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1767.83 585.36">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#outer-glow-5);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: Michelin-Regular, Michelin;
+        font-size: 118px;
+      }
+
+      .cls-3 {
+        filter: url(#outer-glow-6);
+      }
+
+      .cls-4 {
+        filter: url(#outer-glow-7);
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+
+      .cls-5 {
+        filter: url(#outer-glow-3);
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        fill: url(#Dégradé_sans_nom_3);
+      }
+
+      .cls-6 {
+        filter: url(#outer-glow-2);
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        filter: url(#outer-glow-4);
+      }
+
+      .cls-15 {
+        fill: url(#Dégradé_sans_nom_8);
+      }
+
+      .cls-8 {
+        filter: url(#outer-glow-1);
+      }
+
+      .cls-9 {
+        filter: url(#outer-glow-8);
+      }
+    </style>
+    <filter id="outer-glow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="3"/>
+      <feFlood flood-color="#fff" flood-opacity=".85"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="3"/>
+      <feFlood flood-color="#fff" flood-opacity=".85"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="3"/>
+      <feFlood flood-color="#fff" flood-opacity=".85"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-4" stdDeviation="3"/>
+      <feFlood flood-color="#fff" flood-opacity=".85"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-5" stdDeviation="3"/>
+      <feFlood flood-color="#fff" flood-opacity=".85"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-6" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-6" stdDeviation="3"/>
+      <feFlood flood-color="#fff" flood-opacity=".85"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-7" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-7" stdDeviation="3"/>
+      <feFlood flood-color="#fff" flood-opacity=".85"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-8" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-8" stdDeviation="3"/>
+      <feFlood flood-color="#fff" flood-opacity=".85"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Dégradé_sans_nom_8" data-name="Dégradé sans nom 8" x1="196.17" y1="248.6" x2="467.31" y2="248.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d4edfc"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_3" data-name="Dégradé sans nom 3" x1="128.18" y1="277.91" x2="373.99" y2="392.54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4f8fcc"/>
+      <stop offset="1" stop-color="#4054a1"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="cls-8" d="M618.15,206.25l-31.58,86.59h-39.88l42.65-117.2h49.65c12.86,0,16.61,6.51,16.44,19.2l.81,51.27,48.67-70.48h71.3l-42.48,117.2h-46.55l30.93-84.64-60.55,84.64h-39.72l.32-86.59Z"/>
+    <path class="cls-6" d="M760.91,292.85l42.65-117.2h46.07l-42.65,117.2h-46.07Z"/>
+    <path class="cls-5" d="M940.94,202.67c-21.65,0-38.25,6.35-46.71,30.93-7.98,22.95,3.42,32.07,29.46,32.07,12.37,0,26.86-1.79,36.3-4.23l-11.07,30.27c-12.53,3.26-25.23,4.07-38.58,4.07-55.99,0-75.36-27.35-59.41-70.64,14.81-40.69,48.67-52.41,89.04-52.41,17.74,0,34.67,3.25,47.85,7.97l-10.42,29.14c-8.95-3.91-23.76-7.16-36.46-7.16Z"/>
+    <path class="cls-7" d="M1073.28,248.9h-40.04l-15.95,43.95h-46.07l42.65-117.2h46.07l-15.95,43.78h40.04l15.95-43.78h46.07l-42.65,117.2h-46.07l15.95-43.95Z"/>
+    <path class="cls-1" d="M1173.39,175.65h112.8l-9.77,27.02h-66.74l-6.51,17.9h60.06l-10.09,27.02h-59.9l-6.67,18.23h66.74l-9.77,27.02h-112.8l42.65-117.2Z"/>
+    <path class="cls-3" d="M1308.17,175.65h46.07l-31.9,87.73h60.39l-10.74,29.46h-106.45l42.65-117.2Z"/>
+    <path class="cls-4" d="M1390.38,292.85l42.65-117.2h46.07l-42.65,117.2h-46.07Z"/>
+    <path class="cls-9" d="M1534.92,207.07l-31.25,85.78h-39.88l42.65-117.2h49.81c11.72,0,15.79,6.67,15.79,17.74l7.33,69.02,31.58-86.76h40.04l-42.65,117.2h-66.09l-7.33-85.78Z"/>
+  </g>
+  <g>
+    <path class="cls-10" d="M189.86,394.81c34.54,34.54,90.75,34.55,125.3,0,11.02-11.02,18.95-24.74,22.94-39.68,8.15-30.51-.64-63.32-22.94-85.61-9.18-9.18-9.18-24.06,0-33.23,9.18-9.18,24.06-9.18,33.23,0,23.12,23.12,36.74,53.62,39.25,85.39,2.34-1.91,4.61-3.95,6.78-6.13,34.54-34.54,34.54-90.75,0-125.3-34.54-34.54-90.75-34.55-125.3,0-10.43,10.43-18.15,23.37-22.3,37.4-9.24,31.22-.7,64.9,22.3,87.9,9.18,9.18,9.18,24.06,0,33.23s-24.06,9.18-33.23,0c-23.25-23.25-36.83-53.62-39.31-85.33-2.33,1.9-4.58,3.92-6.72,6.06-34.54,34.54-34.54,90.75,0,125.3Z"/>
+    <path class="cls-15" d="M427.66,157.01c-52.87-52.87-138.9-52.87-191.77,0-13.68,13.68-24.29,30.19-31.06,48.19-1.13,3-2.16,6.03-3.07,9.11-4.8,16.21-6.45,32.85-5.18,49.14,2.48,31.71,16.07,62.08,39.31,85.33,9.18,9.18,24.06,9.18,33.23,0s9.18-24.06,0-33.23c-23-23-31.54-56.67-22.3-87.9,4.15-14.03,11.86-26.97,22.3-37.4,34.54-34.55,90.75-34.54,125.3,0,34.54,34.54,34.54,90.75,0,125.3-2.18,2.18-4.44,4.21-6.78,6.13,1.2,15.12-.11,30.53-4.13,45.58-1.14,4.27-2.49,8.48-4.04,12.6,17.99-6.77,34.52-17.4,48.19-31.07,52.87-52.87,52.87-138.9,0-191.77Z"/>
+    <path class="cls-13" d="M387.64,321.67c-2.51-31.78-16.13-62.27-39.25-85.39-9.18-9.18-24.06-9.18-33.23,0-9.18,9.18-9.18,24.06,0,33.23,22.3,22.3,31.09,55.1,22.94,85.61-3.99,14.94-11.92,28.67-22.94,39.68-34.54,34.55-90.75,34.54-125.3,0-34.54-34.54-34.54-90.75,0-125.3,2.14-2.14,4.39-4.16,6.72-6.06-1.27-16.29.38-32.93,5.18-49.14.91-3.08,1.94-6.11,3.07-9.11-18.01,6.77-34.49,17.36-48.21,31.08-52.87,52.87-52.87,138.9,0,191.77,26.44,26.44,61.15,39.66,95.88,39.65,34.72,0,69.45-13.22,95.88-39.65,13.71-13.71,24.31-30.18,31.08-48.19,1.55-4.12,2.9-8.33,4.04-12.6,4.02-15.05,5.33-30.46,4.13-45.58Z"/>
+  </g>
+  <text class="cls-2" transform="translate(542.7 409.82)"><tspan x="0" y="0">OPEN </tspan><tspan class="cls-14" x="444.5" y="0">S</tspan><tspan class="cls-11" x="534.3" y="0">O</tspan><tspan x="642.97" y="0">U</tspan><tspan class="cls-12" x="747.05" y="0">R</tspan><tspan x="844.63" y="0">CE</tspan></text>
+</svg>
