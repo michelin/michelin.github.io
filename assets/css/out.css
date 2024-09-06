@@ -3089,6 +3089,19 @@ section {
   left: 5vw;
 }
 
+@media (max-width: 1279px) {
+  .hero_content {
+    top: 32vw;
+  }
+  .h2-mobile-white-bold {
+    font-size: 1.35rem;
+  }
+  .header.header-sticky:not(.opened){
+    position: sticky;
+  }
+}
+
+
 .social-tools {
   justify-content: space-around;
 }
