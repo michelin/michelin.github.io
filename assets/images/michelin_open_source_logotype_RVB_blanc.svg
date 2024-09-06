@@ -11,7 +11,7 @@
       }
 
       .cls-2 {
-        font-family: Michelin-Regular, Michelin;
+        font-family: 'MichelinUnitTitling-Regular', Michelin;
         font-size: 118px;
       }
 

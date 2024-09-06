@@ -1414,21 +1414,9 @@ body {
 }
 
 @font-face {
-  font-family: "MichelinUnitTitling-SemiBold";
-  src: url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/EOT/MichelinUnitTitling-SemiBold.eot");
-  src: url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/EOT/MichelinUnitTitling-SemiBold.eot?#iefix") format("embedded-opentype"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/WOFF/MichelinUnitTitling-SemiBold.woff") format("woff"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/WOFF2/MichelinUnitTitling-SemiBold.woff2") format("woff2"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/TTF/MichelinUnitTitling-SemiBold.ttf") format("truetype");
-}
-
-@font-face {
   font-family: "MichelinUnitTitling-Bold";
   src: url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/EOT/MichelinUnitTitling-Bold.eot");
   src: url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/EOT/MichelinUnitTitling-Bold.eot?#iefix") format("embedded-opentype"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/WOFF/MichelinUnitTitling-Bold.woff") format("woff"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/WOFF2/MichelinUnitTitling-Bold.woff2") format("woff2"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/TTF/MichelinUnitTitling-Bold.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "MichelinUnitTitling-Black";
-  src: url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/EOT/MichelinUnitTitling-Black.eot");
-  src: url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/EOT/MichelinUnitTitling-Black.eot?#iefix") format("embedded-opentype"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/WOFF/MichelinUnitTitling-Black.woff") format("woff"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/WOFF2/MichelinUnitTitling-Black.woff2") format("woff2"), url("https://dgaddcosprod.blob.core.windows.net/assembly-a3/shared-assets/apos-frontend/releases/v1.44.1/michelin/modules/theme-michelin/fonts/TTF/MichelinUnitTitling-Black.ttf") format("truetype");
 }
 
 .section-widget__content .apos-area p {
