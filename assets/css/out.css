@@ -1955,10 +1955,6 @@ body {
   background-color: var(--white);
 }
 
-.footer {
-  padding-top: var(--spacing-m);
-}
-
 .footer-top--col {
   display: flex;
   flex-direction: column;
@@ -2539,10 +2535,6 @@ html:not([data-brand]) .column-section-widget--title {
   background-color: var(--column-section-heading);
 }
 
-/*# sourceMappingURL=src-build.css.map*/
-
-/* BUILD: public */
-
 /* cyrillic-ext */
 
 @font-face {
@@ -2994,7 +2986,7 @@ section {
 }
 
 [data-brand=commercial] .footer-bottom {
-  background: linear-gradient(180deg, var(--michelin-dark-blue) 0%, 60%, rgb(85 95 140) 100%);
+  background: linear-gradient(180deg, #0b1129 0%, 60%, rgb(85 95 140 / 40%) 100%)
 }
 
 .social-tools--items .item .label {
@@ -3087,6 +3079,10 @@ section {
   position: absolute;
   top: 18vw;
   left: 5vw;
+}
+
+.hero_content img{
+  max-width: 38vw;
 }
 
 @media (max-width: 1279px) {
