@@ -3142,7 +3142,7 @@ h4.activity {
   background-size: contain;
   background-repeat: no-repeat;
   background-position-x: 49%;
-  background-position-y: 0;
+  background-position-y: -4vw;
 }
 
 @media (max-width: 1600px) {
