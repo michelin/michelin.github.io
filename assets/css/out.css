@@ -3153,3 +3153,49 @@ h4.activity {
     background: none;
   }
 }
+
+#legal-mention {
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+}
+
+#legal-mention h1{
+  font-family: "MichelinUnitTitling-Bold", sans-serif;
+  font-size: 1.75rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+#legal-mention h2{
+  font-family: "MichelinUnitTitling-Bold", sans-serif;
+  font-size: 1.45rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+}
+
+#legal-mention h3{
+  font-family: "MichelinUnitTitling-regular", sans-serif;
+  font-size: 1.15rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+}
+
+#legal-mention a{
+  color: white;
+  text-decoration: underline;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+}
