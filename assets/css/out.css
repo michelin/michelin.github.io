@@ -3199,3 +3199,9 @@ h4.activity {
   display: flex;
   align-items: center;
 }
+
+@media (max-width: 960px) {
+  .robot-footer{
+    max-width: 44vw;
+  }
+}
