@@ -1,4 +1,4 @@
-baseURL = 'opensource.michelin.io'
+baseURL = 'https://opensource.michelin.io'
 languageCode = 'en-us'
 title = 'Open Source | Michelin IS & Digital'
 enableRobotsTXT = true
