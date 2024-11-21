@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" data-brand="commercial" dir="ltr">
+    <head>
+        {{ $css := resources.Get "css/out.css" | resources.Minify }}
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="icon" sizes="any" href="/images/favicon.png">
+        <title>{{ .Params.title }}</title>
+        <meta name="description" content="{{ .Params.description }}">
+        <meta name="keywords" content="Michelin, open source, OSS, software, Java, JEE, Jenkins, open source contribution, open source projects, talent acquisition, engineering economics, GitHub, security advisories, IT blog, technology innovation">
+        <meta name="author" content="Michelin IS & Digital">
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {{ template "_internal/opengraph.html" . }}
+        {{ template "_internal/twitter_cards.html" . }}
+        <meta http-equiv="Content-Security-Policy" content="object-src 'none'; script-src 'self'">
+        <link rel="preconnect" href="https://fonts.googleapis.com/">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+        <link href="{{ $css.Permalink }}" rel="stylesheet">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+    </head>
+    <body>
+        <header class="header {{ if .Params.headerFixed }} header-fixed {{ else }} header-sticky {{ end }} alignment-left nav-right">
+            {{ partial "header/header.html" . }}
+        </header>
+        <main class="theme-michelin">
+            {{ block "main" . }}
+            {{ end }}
+        </main>
+        <footer class="footer">
+            {{ partial "footer/footer.html" . }}
+        </footer>
+        {{ partial "footer/backtotop.html" . }}
+        {{ $script := resources.Get "js/script.js" | resources.Minify | resources.Fingerprint }}
+        <script src="{{ $script.Permalink }}"></script>
+    </body>
+</html>

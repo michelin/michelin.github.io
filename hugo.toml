@@ -1,0 +1,13 @@
+baseURL = 'opensource.michelin.io'
+languageCode = 'en-us'
+title = 'Open Source | Michelin IS & Digital'
+enableRobotsTXT = true
+
+disableKinds = ['taxonomy', 'term', 'rss']
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+
+[params.social]
+    twitter = 'michelinIT_eng'

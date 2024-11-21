@@ -3110,7 +3110,7 @@ section {
 }
 
 body {
-  background-image: url(/assets/images/fond.png);
+  background-image: url(/images/fond.png);
   background-repeat: repeat;
   background-size: contain;
   background-position-y: 59vw;
@@ -3135,7 +3135,7 @@ h4.activity {
 }
 
 .robot{
-  background-image: url('/assets/images/robot.png');
+  background-image: url('/images/robot.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position-x: 49%;
