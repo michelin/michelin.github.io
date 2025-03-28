@@ -6,8 +6,10 @@ images: ['images/logo-michelin.png']
 <section class="hero">
     <div class="container-xxl">
         <div class="hero_content">
-            <h1 class="" style="margin: 0;">
-                <img src="/images/icon/michelin_open_source_logotype_RVB_blanc.png">
+            <h1 style="margin: 0;">
+                Michelin
+                <br>
+                <span>Open Source</span>
             </h1>
             <div>
                 <p>We make software &amp; we 💖 IT.</p>

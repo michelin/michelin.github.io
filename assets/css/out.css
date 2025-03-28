@@ -3087,7 +3087,7 @@ section {
 
 @media (max-width: 1279px) {
   .hero_content {
-    top: 32vw;
+    top: 31vw;
   }
   .h2-mobile-white-bold {
     font-size: 1.35rem;
@@ -3153,6 +3153,22 @@ h4.activity {
   .robot{
     background: none;
   }
+}
+
+#Manifesto {
+  margin-top: -19vw;
+}
+
+.hero_content h1{
+  text-align: center;
+  font-size: 3.7vw;
+  color: #fff;
+  font-family: "michelinunittitling-bold", sans-serif;
+}
+
+.hero_content h1 span{
+  font-family: "MichelinUnitTitling-Light", sans-serif;
+  font-size: 2.76vw;
 }
 
 #legal-mention {
