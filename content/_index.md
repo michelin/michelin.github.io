@@ -29,20 +29,20 @@ images: ['images/michelin-oss.jpg']
                         Together, we're shaping a future where every idea counts and every contribution has the power to transform the world of technology.<br/>
                     </p>
                     <h3 class="h3-white-bold align-center">Our 3 main open source activities at Michelin</h3>
-                    <div class="robot">
-                        <div class="offset-lg-9 col-lg-3">
+                    <div class="activities">
+                        <div class="create offset-lg-8 col-lg-3">
                             <h4 class="h4-white-regular activity">CREATE</h4>
                             <p class="p-white-regular">
                                 This involves open sourcing proprietary software and its full lifecycle, both internally and externally. Michelin is now willing to create open source software and it's a strong inflection in this area.
                             </p>
                         </div>
-                        <div class="col-lg-3">
+                        <div class="consume col-lg-3">
                             <h4 class="h4-white-regular activity">CONSUME</h4>
                             <p class="p-white-regular">
                                 Using third-party open source software in Michelin’s technology stack. We're more than ever committed to use open source software and we already have an open source review board. It mainly ensures that when using an open source software, we check the license.
                             </p>
                         </div>
-                        <div class="offset-lg-8 col-lg-3">
+                        <div class="contribute offset-lg-8 col-lg-3">
                             <h4 class="h4-white-regular activity">CONTRIBUTE</h4>
                             <p class="p-white-regular">
                                 Contributing to existing third-party open source projects. These contributions happened several times in the past and we do have a legal framework we can use. It covers the license under which we contribute, which legal company is contributing, the individual who contributes and the intellectual property management. We would like to encourage our teams to contribute on open source projects: it's a way for Michelin to give back to the OSS community after years of consuming the value it produced.

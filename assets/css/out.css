@@ -3134,7 +3134,7 @@ h4.activity {
   margin: 0;
 }
 
-.robot{
+.activities{
   background-image: url('/images/oss-activities.png');
   background-size: contain;
   background-repeat: no-repeat;
@@ -3142,15 +3142,27 @@ h4.activity {
   background-position-y: -4vw;
 }
 
+.activities .create h4{
+  color: #ccffff
+}
+
+.activities .consume h4{
+  color: var(--bold-yellow)
+}
+
+.activities .contribute h4{
+  color: #a4ffae
+}
+
 @media (max-width: 1600px) {
-  .robot{
+  .activities{
     background-size: 48vw;
   }
 }
 
 
 @media (max-width: 960px) {
-  .robot{
+  .activities{
     background: none;
   }
 }
@@ -3221,17 +3233,17 @@ h4.activity {
   align-items: center;
 }
 
-.robot-footer {
+.cube-footer {
   display: flex;
   align-items: center;
 }
 
-.robot-footer img{
+.cube-footer img{
   max-width: 300px;
 }
 
 @media (max-width: 960px) {
-  .robot-footer img{
+  .cube-footer img{
     max-width: 44vw;
   }
 }
