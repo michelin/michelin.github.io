@@ -3143,7 +3143,7 @@ h4.activity {
 }
 
 .activities .create h4{
-  color: #ccffff
+  color: #a4ffae
 }
 
 .activities .consume h4{
@@ -3151,7 +3151,7 @@ h4.activity {
 }
 
 .activities .contribute h4{
-  color: #a4ffae
+  color: #ccffff
 }
 
 @media (max-width: 1600px) {
