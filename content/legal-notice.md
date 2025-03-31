@@ -4,7 +4,7 @@ Description: "We make software &amp; we love IT! Explore Michelin’s commitment
 template: "single"
 url: "/legal-notice"
 headerFixed: true
-images: ['images/logo-michelin.png']
+images: ['images/michelin-oss.jpg']
 ---
 <section id="legal-mention">
     <div class="columns">

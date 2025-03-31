@@ -1,7 +1,7 @@
 ---
 title: "Open Source | Michelin IS & Digital"
 Description: "We make software &amp; we love IT! Explore Michelin’s commitment to open source software, innovation, and community collaboration. Discover our projects, contributions, and career opportunities. Join us in shaping the future of technology."
-images: ['images/logo-michelin.png']
+images: ['images/michelin-oss.jpg']
 ---
 <section class="hero">
     <div class="container-xxl">
