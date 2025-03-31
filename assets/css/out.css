@@ -3139,7 +3139,7 @@ h4.activity {
   background-size: contain;
   background-repeat: no-repeat;
   background-position-x: 49%;
-  background-position-y: -4vw;
+  background-position-y: center;
 }
 
 .activities .create h4{
