@@ -3142,6 +3142,10 @@ h4.activity {
   background-position-y: center;
 }
 
+.activities .consume {
+  text-align: right;
+}
+
 .activities .create h4{
   color: #a4ffae
 }
@@ -3156,7 +3160,7 @@ h4.activity {
 
 @media (max-width: 1600px) {
   .activities{
-    background-size: 48vw;
+    background-size: 40vw;
   }
 }
 
