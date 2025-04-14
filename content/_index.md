@@ -12,7 +12,7 @@ images: ['images/michelin-oss.jpg']
                 <span>Open Source</span>
             </h1>
             <div>
-                <p>We make software <span>&amp; we <img class="heart" src="/images/coeur.svg"/> IT.</span></p>
+                <p>We make software <span>&amp; we <img class="heart" src="/images/coeur.svg" alt="💖"/> IT.</span></p>
             </div>
         </div><img src="/images/couv.png" style="width: 100%;height: 100%;">
     </div>
