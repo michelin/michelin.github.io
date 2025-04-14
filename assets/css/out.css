@@ -3070,7 +3070,7 @@ section {
   }
 
   .hero_content p {
-    font-size: 0.7rem;
+    font-size: 0.66rem;
   }
 }
 
@@ -3081,8 +3081,18 @@ section {
   left: 5vw;
 }
 
+.hero_content span{
+  text-wrap: nowrap;
+}
+
 .hero_content img{
   max-width: 38vw;
+}
+
+.hero_content img.heart {
+  height: 45px;
+  width: 45px;
+  margin: -3px -6px -13px -3px;
 }
 
 @media (max-width: 1279px) {
@@ -3169,6 +3179,14 @@ h4.activity {
   .activities{
     background: none;
   }
+  .hero_content img.heart {
+    height: 30px;
+    width: 30px;
+    margin-bottom: -11px;
+  }
+  .activities h4{
+    text-align: center;
+  }
 }
 
 #Manifesto {
@@ -3248,6 +3266,6 @@ h4.activity {
 
 @media (max-width: 960px) {
   .cube-footer img{
-    max-width: 44vw;
+    max-width: 23vw;
   }
 }
