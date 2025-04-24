@@ -1,6 +1,6 @@
 ---
 title: "Open Source | Michelin IS & Digital | Legal Notice"
-Description: "We make software &amp; we love IT! Explore Michelin’s commitment to open source software, innovation, and community collaboration. Discover our projects, contributions, and career opportunities. Join us in shaping the future of technology."
+Description: "We make software & we love IT! Explore Michelin’s commitment to open source software, innovation, and community collaboration. Discover our projects, contributions, and career opportunities. Join us in shaping the future of technology."
 template: "single"
 url: "/legal-notice"
 headerFixed: true

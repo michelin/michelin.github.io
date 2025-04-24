@@ -1,6 +1,6 @@
 ---
 title: "Open Source | Michelin IS & Digital"
-Description: "We make software &amp; we love IT! Explore Michelin’s commitment to open source software, innovation, and community collaboration. Discover our projects, contributions, and career opportunities. Join us in shaping the future of technology."
+Description: "We make software & we love IT! Explore Michelin’s commitment to open source software, innovation, and community collaboration. Discover our projects, contributions, and career opportunities. Join us in shaping the future of technology."
 images: ['images/michelin-oss.jpg']
 ---
 <section class="hero">
@@ -14,7 +14,7 @@ images: ['images/michelin-oss.jpg']
             <div>
                 <p>We make software <span>&amp; we <img class="heart" src="/images/coeur.svg" alt="💖"/> IT.</span></p>
             </div>
-        </div><img src="/images/couv.png" style="width: 100%;height: 100%;">
+        </div><img src="/images/couv.png" alt="Michelin Open Source" style="width: 100%;height: 100%;">
     </div>
 </section>
 <section id="Manifesto">
@@ -45,7 +45,7 @@ images: ['images/michelin-oss.jpg']
                         <div class="create offset-lg-8 col-lg-4">
                             <h4 class="h4-white-regular activity">CREATE</h4>
                             <p class="p-white-regular">
-                                This involves open sourcing proprietary software and its full lifecycle, both internally and externally. Michelin is now willing to create open source software and it's a strong inflection in this area.
+                                This involves open-sourcing proprietary software and its full lifecycle, both internally and externally. Michelin is now willing to create open source software and it's a strong inflection in this area.
                             </p>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ images: ['images/michelin-oss.jpg']
                     <div class="container rationale">
                         <div class="row-content-direction-row md-row-content-direction-row">
                             <div class="col-lg-2 col-sm-2 align-center align-content-center">
-                                <img src="/images/picto.png" />
+                                <img src="/images/picto.png" alt="Picto code" />
                             </div>
                             <div class="col-lg-10 align-center content-direction-column">
                                 <h4 class="h4-white-regular align-center">TALENT ACQUISITION AND RETENTION</h4>
@@ -67,7 +67,7 @@ images: ['images/michelin-oss.jpg']
                     <div class="container rationale">
                         <div class="row-content-direction-row md-row-content-direction-row">
                             <div class="col-lg-2 col-sm-2 align-center align-content-center">
-                                <img src="/images/code.png" />
+                                <img src="/images/code.png" alt="Let's code"/>
                             </div>
                             <div class="col-lg-10 align-center content-direction-column">
                                 <h4 class="h4-white-regular align-center">ENGINEERING ECONOMICS</h4>
@@ -80,7 +80,7 @@ images: ['images/michelin-oss.jpg']
                     <div class="container rationale">
                         <div class="row-content-direction-row md-row-content-direction-row">
                             <div class="col-lg-2 col-sm-2 align-center align-content-center">
-                                <img src="/images/Team.png" />
+                                <img src="/images/Team.png" alt="Team work" />
                             </div>
                             <div class="col-lg-10 align-center content-direction-column">
                                 <h4 class="h4-white-regular align-center">SUSTAIN THE OPEN SOURCE COMMUNITY</h4>
